@@ -1,0 +1,58 @@
+[
+	{
+		"file": "C:\\Users\\AURORA\\Documents\\Unreal Projects\\Platfomer\\Source\\Platfomer\\MPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\AURORA\\Documents\\Unreal Projects\\Platfomer\\.vscode\\compileCommands_Platfomer\\Platfomer.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\AURORA\\Documents\\Unreal Projects\\Platfomer\\Source\\Platfomer\\MPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\AURORA\\Documents\\Unreal Projects\\Platfomer\\.vscode\\compileCommands_Platfomer\\Platfomer.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\AURORA\\Documents\\Unreal Projects\\Platfomer\\Source\\Platfomer\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\AURORA\\Documents\\Unreal Projects\\Platfomer\\.vscode\\compileCommands_Platfomer\\Platfomer.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\AURORA\\Documents\\Unreal Projects\\Platfomer\\Source\\Platfomer\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\AURORA\\Documents\\Unreal Projects\\Platfomer\\.vscode\\compileCommands_Platfomer\\Platfomer.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\AURORA\\Documents\\Unreal Projects\\Platfomer\\Source\\Platfomer\\Platfomer.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\AURORA\\Documents\\Unreal Projects\\Platfomer\\.vscode\\compileCommands_Platfomer\\Platfomer.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\AURORA\\Documents\\Unreal Projects\\Platfomer\\Source\\Platfomer\\Platfomer.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\AURORA\\Documents\\Unreal Projects\\Platfomer\\.vscode\\compileCommands_Platfomer\\Platfomer.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\AURORA\\Documents\\Unreal Projects\\Platfomer\\Source\\Platfomer\\Platfomer.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\AURORA\\Documents\\Unreal Projects\\Platfomer\\.vscode\\compileCommands_Platfomer\\Platfomer.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	}
+]
